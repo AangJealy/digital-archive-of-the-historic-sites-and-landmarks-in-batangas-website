@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Historical Sites and Landmarks in Batangas</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+      background-color: #d3bde9; /* Pastel Purple Background Color */
+
+    }
+
+    h2 {
+      text-align: center;
+    }
+
+    .gallery {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+      gap: 20px;
+      margin-top: 20px;
+    }
+
+    .image-container {
+      position: relative;
+      overflow: hidden;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    .image-container img {
+      width: 100%;
+      height: auto;
+      border-radius: 10px;
+    }
+
+    .description {
+      padding: 10px;
+      text-align: justify;
+    }
+  </style>
+  
+</head>
+
+<body>
+
+  <h2>Historical Sites and Landmarks in Batangas</h2>
+
+  <div class="gallery">
+    <!-- Image 1: Taal Basilica -->
+    <div class="image-container">
+      <img src="https://1.bp.blogspot.com/-KDs08HNWzcs/YMMu7u_CccI/AAAAAAABOH0/AqzFBP10Zsgln5W4s5CJXAF5dQ4HpRNoACNcBGAsYHQ/s2048/DSC_0429.jpg" alt="Taal Basilica">
+      <div class="description">
+        The Taal Basilica, located in the town of Taal, is considered the largest Catholic church in Asia. Built in the 16th century, its significance lies in being a witness to various historical events, including the Philippine Revolution against Spanish colonization, where it served as a fortress and refuge for revolutionaries.
+      </div>
+    </div>
+
+    <!-- Image 2: Mabini Shrine -->
+    <div class="image-container">
+      <img src="https://photos.wikimapia.org/p/00/05/79/03/04_big.jpg" alt="Mabini Shrine">
+      <div class="description">
+        The Mabini Shrine in Tanauan City is the ancestral home of Apolinario Mabini, a key figure in Philippine history known as the "Sublime Paralytic" and the "Brains of the Revolution." This site preserves the legacy of Mabini, who played a pivotal role in drafting the Malolos Constitution during the First Philippine Republic.
+      </div>
+    </div>
+
+    <!-- Image 3: Mount Maculot -->
+    <div class="image-container">
+      <img src="https://media-cdn.tripadvisor.com/media/photo-c/2560x500/05/f9/43/9b/scenic-view-from-maculot.jpg" alt="Mount Maculot">
+      <div class="description">
+        Mount Maculot, located in Cuenca, is not only a scenic hiking destination but also has historical significance. During World War II, it served as a guerrilla base against Japanese forces, showcasing the resilience and resistance of the Filipino people in the face of occupation.
+      </div>
+    </div>
+
+    <!-- Image 4: Casa Villavicencio -->
+    <div class="image-container">
+      <img src="https://mb.com.ph/wp-content/uploads/2021/06/IMG_2540-1024x563.jpg">
+      <div class="description">
+        Casa Villavicencio in Taal is an ancestral house that played a pivotal role during the Philippine Revolution against Spanish rule. It served as a meeting place for revolutionaries, including key figures like Jose Rizal, making it an essential site in the struggle for Philippine independence.
+      </div>
+    </div>
+
+    <!-- Image 5: Casa de Segunda -->
+    <div class="image-container">
+      <img src="https://outoftownblog.com/casa-de-segunda-a-national-heritage-house-in-lipa/casa-de-segunda-photo-by-renz-marion-katigbak/" alt="Mount Maculot">
+      <div class="description">
+        Also known as the Luz-Katigbak Ancestral House in Lipa City, is a well-preserved heritage house with historical significance. It was the residence of Segunda Katigbak, a noted figure in Philippine history and known as the "First Lady of the Revolution." As the alleged first love of national hero Jose Rizal, this house stands as a symbol of the intertwining of personal relationships and historical events during the Philippine Revolution against Spanish rule.
+      </div>
+    </div>
+
+    <!-- Image 6: San Jose Church (Saint Joseph the Patriarch Parish)
+ -->
+    <div class="image-container">
+      <img src="https://wowbatangas.com/wp-content/uploads/2018/01/St.-Joseph-the-Patriarch-Parish-Church-19.jpg" alt="San Jose Church (Saint Joseph the Patriarch Parish)">
+      <div class="description">
+        San Jose Church in Batangas City is a centuries-old church that has withstood the tests of time, serving as a testament to the enduring influence of Spanish colonial architecture. The church played a role in the propagation of Christianity during the Spanish era, marking an important chapter in the Philippines' religious history.
+
+      </div>
+    </div>
+
+</body>
+
+</html>
+
+    
